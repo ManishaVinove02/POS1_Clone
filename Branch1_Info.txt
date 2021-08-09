@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am in Branch1
+=======
+This is Branch1 file.
+>>>>>>> Branch1
